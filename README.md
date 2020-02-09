@@ -1,10 +1,5 @@
 # [Summer 2020 Internships - Engineering Pre-assignment](https://github.com/woltapp/summer2020)
 
-
-
-
-# To start clone the repo and run
-
 ```
 cd summerwolt2020
 npm install
